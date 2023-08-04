@@ -11,6 +11,7 @@
 		69DFF69C2A7CC342009B73D1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69DFF69B2A7CC342009B73D1 /* ContentView.swift */; };
 		69DFF69E2A7CC34A009B73D1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 69DFF69D2A7CC34A009B73D1 /* Assets.xcassets */; };
 		69DFF6A12A7CC34A009B73D1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 69DFF6A02A7CC34A009B73D1 /* Preview Assets.xcassets */; };
+		69DFF6AC2A7CD155009B73D1 /* hello3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69DFF6AB2A7CD155009B73D1 /* hello3.swift */; };
 		69DFF6A82A7CCEF4009B73D1 /* view1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69DFF6A72A7CCEF4009B73D1 /* view1.swift */; };
 /* End PBXBuildFile section */
 
@@ -20,6 +21,7 @@
 		69DFF69B2A7CC342009B73D1 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		69DFF69D2A7CC34A009B73D1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		69DFF6A02A7CC34A009B73D1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		69DFF6AB2A7CD155009B73D1 /* hello3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = hello3.swift; sourceTree = "<group>"; };
 		69DFF6A72A7CCEF4009B73D1 /* view1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = view1.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -55,6 +57,7 @@
 			children = (
 				69DFF6992A7CC342009B73D1 /* demoAppGitApp.swift */,
 				69DFF69B2A7CC342009B73D1 /* ContentView.swift */,
+				69DFF6AB2A7CD155009B73D1 /* hello3.swift */,
 				69DFF6A72A7CCEF4009B73D1 /* view1.swift */,
 				69DFF69D2A7CC34A009B73D1 /* Assets.xcassets */,
 				69DFF69F2A7CC34A009B73D1 /* Preview Content */,
@@ -142,6 +145,7 @@
 			files = (
 				69DFF69C2A7CC342009B73D1 /* ContentView.swift in Sources */,
 				69DFF69A2A7CC342009B73D1 /* demoAppGitApp.swift in Sources */,
+				69DFF6AC2A7CD155009B73D1 /* hello3.swift in Sources */,
 				69DFF6A82A7CCEF4009B73D1 /* view1.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
