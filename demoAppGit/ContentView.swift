@@ -14,6 +14,7 @@ struct ContentView: View {
                 .padding()
             hello3()
             view1()
+            hello2()
             
         }
     }
